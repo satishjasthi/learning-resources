@@ -1,0 +1,60 @@
+PHASE 1
+
+A+ Part 1 (9 hours)
+https://www.youtube.com/playlist?list=PLG49S3nxzAnmlC1ZsppuM7yleDuYCMHrv
+
+A+ Part 2 (7 hours)
+https://www.youtube.com/playlist?list=PLG49S3nxzAnmLq5TLtC0udUaXSaRiPc4v
+
+Network+ (14 hours)
+https://www.youtube.com/playlist?list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ
+
+Security+ Part 1 (6 hours)
+https://www.youtube.com/playlist?list=PLG49S3nxzAnkcKd71N4OjSv4cUXNhoPlQ
+
+Security+ Part 2 (6 hours)
+https://www.youtube.com/playlist?list=PLG49S3nxzAnlhMM1KV5ST1qi3kI87hMpY
+
+---------------------------------------------------------------------------------
+
+PHASE 2
+
+Maltego (50 mins)
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI1SRsVRHeWbAz7tBE-cBgIJ
+
+Linux Terminal (2 hours)
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI2ZYTlMdGzCV8AJuoqW5lKB
+
+Netcat (1.5 hours)
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI1v-RQ8rAftvqKawXQR87eL
+
+NMap (2.5 hours)
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO
+
+Wireshark (4 hours)
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W
+
+*********************************************************************************
+			                           OPTIONAL
+*********************************************************************************
+
+PHASE 3
+
+Metasploit (7 hours)
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI3n4KRN_ic8N8Qv_ss_dh_F
+
+Secure Ninja CEH (13 hours)
+https://www.youtube.com/playlist?list=PLeYdy_QzYFYvvDDZnbbHHaRJHGESdY4FG
+
+---------------------------------------------------------------------------------
+
+PHASE 4
+
+Hacking Course: Learn Complete Kali Linux from Beginner To Advance (3.5 hours)
+https://www.youtube.com/playlist?list=PLphoRDznA6RnAbT1tZN6DX7tiH_I_CMnN
+
+Kali Linux - Complete Training Program from Scratch (18 hours)
+https://www.youtube.com/playlist?list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM
+
+SANS Cyber Aces (10 hours)
+https://tutorials.cyberaces.org/tutorials
