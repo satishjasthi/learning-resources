@@ -31,4 +31,4 @@
 See [Distrowatch.com](https://distrowatch.com/) for details
 
 ###Contributing:
-please do
+-[Hawaii Grey Hats Learning Resources](https://github.com/allthroughthenight/Hawaii_Grey_Hats_Learning_Resources#hawaii-grey-hats-learning-resources "Hawaii Grey Hats Learning Resources")
