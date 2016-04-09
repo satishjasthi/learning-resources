@@ -1,8 +1,9 @@
 
 Daily
-======
+===
 
 WEBSITES/BLOGS
+---------------
 
 Naked Secuiry
 https://nakedsecurity.sophos.com/
