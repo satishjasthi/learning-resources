@@ -3,7 +3,7 @@
 ## Websites
 
 [Naked Secuiry](https://nakedsecurity.sophos.com/ "Naked Security")
-*Naked Security is Sophos’s award-winning threat news room, giving you news, opinion, advice and research on computer security issues and the latest internet threats.
+* Naked Security is Sophos’s award-winning threat news room, giving you news, opinion, advice and research on computer security issues and the latest internet threats.
 [Krebs on Security](http://www.krebsonsecurity.com/ "Krebs on Security")
 
 [SANS Internet Storm Center](https://isc.sans.edu/ "SANS Internet Storm Center")
