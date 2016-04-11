@@ -31,4 +31,4 @@
 See [Distrowatch.com](https://distrowatch.com/) for details
 
 ###Contributing:
-- [Computer Security Learning Resources](https://github.com/allthroughthenight/Computer_Security_Learning_Resources/blob/master/README.md#computer-security-learning-resources "Computer Security Learning Resources")
+- [n00b Cookbook](https://github.com/allthroughthenight/Computer_Security_Learning_Resources/blob/master/n00b_Cookbook.md "n00b Cookbook")
