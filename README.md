@@ -11,8 +11,8 @@
 - [Hak5 (youtube](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 - [HACKING TUTORIALS (youtube)](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA)
 - [Live Overflow (youtube)(live CTF session)](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [Defcon Media Server (internet)](https://media.defcon.org/)
-- [Chaos Computer Club Media Server (internet)](https://media.ccc.de/)
+- [Defcon Media Server (internet)](https://media.defcon.org/) / [Defcon Youtube Channel (youtube)](https://www.youtube.com/user/DEFCONConference)
+- [Chaos Computer Club Media Server (internet)](https://media.ccc.de/) / [CCC Youtube Channel (youtube)](https://www.youtube.com/user/CCCen)
 
 ##Sites/Blogs to Follow:
 - [OpenBSD Journal (internet)](http://undeadly.org/cgi?action=front)
