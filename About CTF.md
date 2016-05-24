@@ -1,4 +1,4 @@
-# Guides
+## Guides
 
 * [A Beginners guide to a CTF](https://actf.gitbooks.io/guide/content/index.html "")
 
@@ -8,7 +8,7 @@
 
 * [First CTF Guide](http://www.openctf.com/html/firstctf.html "")
 
-# Learning
+## Learning
 
 * [Are You A Hacker?](http://www.catb.org/esr/faqs/hacker-howto.html "Are You A Hacker?")
 
@@ -20,13 +20,13 @@
 
 * [SecurityCTF](https://www.reddit.com/r/securityctf "SecurityCTF")
 
-# Practise
+## Practise
 
 * [Hacker Experience](https://legacy.hackerexperience.com/ "Hacker Experience")
 
 * [HolidayHack](https://holidayhackchallenge.com/ "Holiday Hack")
 
-* [Practice CTF List / Permanant CTF List](http://captf.com/practice-ctf/ "Practice CTF List / Permanant CTF List")
+* [Practice CTF List](http://captf.com/practice-ctf/ "Practice CTF List / Permanant CTF List")
 
 * [Root Me](http://www.root-me.org/?lang=en "Root Me")
 
