@@ -26,3 +26,7 @@
 - [Secure Random by default (youtube)](https://www.youtube.com/watch?v=xneBjc8z0DE)
 - [State of the onion @ 32c3 (youtube)](https://www.youtube.com/watch?v=EXEUE__ap08)
 - [How the Great Firewall discovers hidden circumvention servers (youtube)](https://www.youtube.com/watch?v=NgYdmRR7JtY)
+
+## Coursework
+- [About CTF](https://github.com/uhmgreyhats/learning-resources/blob/master/About%20CTF.md)
+- [n00b Cookbook](https://github.com/uhmgreyhats/learning-resources/blob/master/n00b_Cookbook.md)
